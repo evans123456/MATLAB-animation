@@ -1,7 +1,3 @@
-%EVANS WAHOME GICHUKI P15/36969/2016
-%KEVIN KIPKEMEI P15/1711/2016
-%BRIAN RAILA AMOLLO P15/1727/2016
-
 
 world = vrworld('libertycity.wrl');% Create a World Object, with our world inside
 
